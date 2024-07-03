@@ -6,7 +6,7 @@ Olá! Sou Doutor e Mestre em Engeharia Biomédica, Especialista em Automação I
 
 📑️ORCID: https://orcid.org/0000-0003-0378-6056
 
-🗂️ O que você encontra no meu Github 🗂️
+# 🗂️ O que você encontra no meu Github 🗂️
 
 🤖 Projetos para Microcontroladores PIC 
 
@@ -17,7 +17,7 @@ Olá! Sou Doutor e Mestre em Engeharia Biomédica, Especialista em Automação I
 🖥️ Códigos para diversas aplicações com linguagem C/C++; C#; Python; Ladder; 
 
 
-🌟 Tecnologias que Utilizo 🌟
+# 🌟 Tecnologias que Utilizo 🌟
 
 MPLAB X . XC8 . Proteus . Indusoft . Anaconda . VSCode . Visual Studio . STM32 Cube . Arduino IDE . Espressif . Raspberry . Texas Instruments . Microchip . ST Eletronics .
 
