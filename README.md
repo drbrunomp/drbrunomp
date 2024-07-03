@@ -1,4 +1,4 @@
-👩‍💻Bruno Medina Pedroso👩‍💻
+## 👩‍💻Bruno Medina Pedroso👩‍💻
 
 Olá! Sou Doutor e Mestre em Engeharia Biomédica, Especialista em Automação Industrial e Sistemas Eletrônicos para Controle, Licenciado em Eletrônica, Tecnólogo em Automação Industrial e Técnico em Mecatrônica. Atuo como Pesquisador na área de Inteligência Artificial e Internet das Coisa, bem como, sou professor no Centro Paula Souza onde ministro disciplinas como Microcontroladores, Sistemas Embarcados, Programação Aplicada entre outras.
 
