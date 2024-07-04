@@ -20,7 +20,7 @@ Olá! Sou Doutor e Mestre em Engeharia Biomédica, Especialista em Automação I
 ### 🌟 Tecnologias que Utilizo 🌟
 
   MPLAB X . XC8 . Proteus . Indusoft . Anaconda . VSCode . Visual Studio . STM32 Cube . Arduino IDE . Espressif . Raspberry . Texas Instruments . Microchip . ST Eletronics .
-   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+   
 
 
 <!---
