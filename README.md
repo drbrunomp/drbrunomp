@@ -12,7 +12,7 @@ Olá! Sou Doutor e Mestre em Engeharia Biomédica, Especialista em Automação I
 
 🤖 Projetos com a plataforma Arduino integrado a Sistemas Supervisórios
 
-💎 Projetos de Controle e Automação com o ESP32, aplicados em IoT.
+💎 Projetos de Controle e Automação com o ESP32 e o Raspberry PI, aplicados em IoT.
 
 🖥️ Códigos para diversas aplicações com linguagem C/C++; C#; Python; Ladder; 
 
